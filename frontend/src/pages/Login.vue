@@ -22,7 +22,7 @@
             <q-separator spaced />
           </q-card-section>
           <q-card-section class="text-primary">
-            <div class="text-h6">Bem vindo a Mais Vida!</div>
+            <div class="text-h6">Bem vindo(a)!</div>
             <div class="text-caption text-grey">Por favor faça login...</div>
           </q-card-section>
 
